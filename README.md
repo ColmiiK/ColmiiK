@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi! I'm Álvaro, ColmiiK on a few social media platforms and alvega-g on Intra and 42born2code Slack workspace!📖 Former classic philology student turned software developer<br>🔭 Currently working on the Common Core of 42 School in Málaga!<br>🌱 Learning C and slowly acquiring more and more programming knowledge<br>🔍 Searching for new job experiences to learn from
+👋Hi! I'm Álvaro, ColmiiK on a few social media platforms and alvega-g on Intra and 42born2code Slack workspace!<br>📖 Former classic philology student turned software developer<br>🔭 Currently working on the Common Core of 42 School in Málaga!<br>🌱 Learning C and slowly acquiring more and more programming knowledge<br>🔍 Searching for new job experiences to learn from
 
 
 ## 🌐 Socials:
