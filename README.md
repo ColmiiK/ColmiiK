@@ -11,7 +11,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ColmiiK&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/anuraghazra/github-readme-stats)">
   <img height=170 align="center" src="https://nirzak-streak-stats.vercel.app/?user=ColmiiK&theme=catppuccin_mocha&hide_border=false" />
 </a>
 
@@ -20,7 +20,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColmiiK&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ColmiiK/ft_transcendence">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ColmiiK&repo=ft_transcendence&show_owner=true&theme=catppuccin_mocha" />
   
 </a>
